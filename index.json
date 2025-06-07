@@ -1,13 +1,23 @@
 {
   "metadata": {
-    "created_at": "2025-06-07T22:14:08.632353",
+    "created_at": "2025-06-07T22:19:13.516488",
     "source": "http://www.eduardogageiro.com/favorites/",
-    "total_photos": 30,
+    "total_photos": 300,
     "description": "Eduardo Gageiro Photography Collection - Favorites"
   },
   "photos": [
     {
       "id": "eg_001",
+      "title": "0-livro-olhares-001.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/0-livro-olhares-001/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 103762
+    },
+    {
+      "id": "eg_002",
       "title": "004EGageiro.jpg",
       "description": "Monsanto-Portugal, 1982",
       "url": "http://www.eduardogageiro.com/content/004egageiro-1/",
@@ -17,7 +27,7 @@
       "size_bytes": 211721
     },
     {
-      "id": "eg_002",
+      "id": "eg_003",
       "title": "005EGageiroN2.jpg",
       "description": "Peniche-Portugal, 1984",
       "url": "http://www.eduardogageiro.com/content/005egageiron2-1/",
@@ -27,7 +37,7 @@
       "size_bytes": 155964
     },
     {
-      "id": "eg_003",
+      "id": "eg_004",
       "title": "006EGageiro.jpg",
       "description": "Ermera-Timor, 2000",
       "url": "http://www.eduardogageiro.com/content/006egageiro-1/",
@@ -37,7 +47,7 @@
       "size_bytes": 403717
     },
     {
-      "id": "eg_004",
+      "id": "eg_005",
       "title": "008Nova-EGageiro.jpg",
       "description": "Semana Santa-Ourém-Portugal, 2005",
       "url": "http://www.eduardogageiro.com/content/008nova-egageiro/",
@@ -47,7 +57,7 @@
       "size_bytes": 379236
     },
     {
-      "id": "eg_005",
+      "id": "eg_006",
       "title": "021EGageiro.jpg",
       "description": "Dili-Timor, 2000",
       "url": "http://www.eduardogageiro.com/content/021egageiro-1/",
@@ -57,7 +67,7 @@
       "size_bytes": 408325
     },
     {
-      "id": "eg_006",
+      "id": "eg_007",
       "title": "024EGageiro.jpg",
       "description": "Dili-Timor, 2000",
       "url": "http://www.eduardogageiro.com/content/024egageiro/",
@@ -67,7 +77,7 @@
       "size_bytes": 283066
     },
     {
-      "id": "eg_007",
+      "id": "eg_008",
       "title": "025EGageiro.jpg",
       "description": "Dili-Timor, 2000",
       "url": "http://www.eduardogageiro.com/content/025egageiro-1/",
@@ -77,7 +87,7 @@
       "size_bytes": 520758
     },
     {
-      "id": "eg_008",
+      "id": "eg_009",
       "title": "033EGageiro.jpg",
       "description": "Mesquita-Lisboa-Portugal, 2005",
       "url": "http://www.eduardogageiro.com/content/033egageiro/",
@@ -87,7 +97,7 @@
       "size_bytes": 381584
     },
     {
-      "id": "eg_009",
+      "id": "eg_010",
       "title": "046EGageiro.jpg",
       "description": "Karbala-Iraque, 1996",
       "url": "http://www.eduardogageiro.com/content/046egageiro-1/",
@@ -97,7 +107,7 @@
       "size_bytes": 304787
     },
     {
-      "id": "eg_010",
+      "id": "eg_011",
       "title": "056EGageiro.jpg",
       "description": "Ladeira do Pinheiro-Portugal, 1968",
       "url": "http://www.eduardogageiro.com/content/056egageiro/",
@@ -107,7 +117,7 @@
       "size_bytes": 205000
     },
     {
-      "id": "eg_011",
+      "id": "eg_012",
       "title": "057EGageiro.jpg",
       "description": "Sesimbra-Portugal, 1985",
       "url": "http://www.eduardogageiro.com/content/057egageiro-1/",
@@ -117,7 +127,7 @@
       "size_bytes": 295950
     },
     {
-      "id": "eg_012",
+      "id": "eg_013",
       "title": "061EGageiro.jpg",
       "description": "Guiné Bissau, 1972",
       "url": "http://www.eduardogageiro.com/content/061egageiro-1/",
@@ -127,7 +137,7 @@
       "size_bytes": 265831
     },
     {
-      "id": "eg_013",
+      "id": "eg_014",
       "title": "062EGageiro.jpg",
       "description": "Nazaré-Portugal, 1997",
       "url": "http://www.eduardogageiro.com/content/062egageiro/",
@@ -137,7 +147,7 @@
       "size_bytes": 328906
     },
     {
-      "id": "eg_014",
+      "id": "eg_015",
       "title": "065EGageiro.jpg",
       "description": "Pequim-China, 2005",
       "url": "http://www.eduardogageiro.com/content/065egageiro-1/",
@@ -147,7 +157,7 @@
       "size_bytes": 294957
     },
     {
-      "id": "eg_015",
+      "id": "eg_016",
       "title": "075EGageiro.jpg",
       "description": "Fátima-Portugal, 2005",
       "url": "http://www.eduardogageiro.com/content/075egageiro/",
@@ -157,7 +167,7 @@
       "size_bytes": 271569
     },
     {
-      "id": "eg_016",
+      "id": "eg_017",
       "title": "081EGageiro.jpg",
       "description": "Jerusalém, 2005",
       "url": "http://www.eduardogageiro.com/content/081egageiro-1/",
@@ -167,7 +177,7 @@
       "size_bytes": 416195
     },
     {
-      "id": "eg_017",
+      "id": "eg_018",
       "title": "086EGageiro.jpg",
       "description": "Fátima-Portugal, 1968",
       "url": "http://www.eduardogageiro.com/content/086egageiro/",
@@ -177,7 +187,7 @@
       "size_bytes": 301565
     },
     {
-      "id": "eg_018",
+      "id": "eg_019",
       "title": "089EGageiro.jpg",
       "description": "Pequim-China, 2005",
       "url": "http://www.eduardogageiro.com/content/089egageiro/",
@@ -187,7 +197,7 @@
       "size_bytes": 298275
     },
     {
-      "id": "eg_019",
+      "id": "eg_020",
       "title": "098EGageiro.jpg",
       "description": "Paulo V-Fátima, 1967",
       "url": "http://www.eduardogageiro.com/content/098egageiro-1/",
@@ -197,7 +207,17 @@
       "size_bytes": 464112
     },
     {
-      "id": "eg_020",
+      "id": "eg_021",
+      "title": "1.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/1-1/",
+      "width": 1149,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 362162
+    },
+    {
+      "id": "eg_022",
       "title": "109EGageiroN2.jpg",
       "description": "Ladeira do Pinheiro-Torres Novas, 1968",
       "url": "http://www.eduardogageiro.com/content/109egageiron2/",
@@ -207,7 +227,7 @@
       "size_bytes": 365140
     },
     {
-      "id": "eg_021",
+      "id": "eg_023",
       "title": "128EGageiro.jpg",
       "description": "Mesquita-Lisboa-Portugal, 2004",
       "url": "http://www.eduardogageiro.com/content/128egageiro/",
@@ -217,7 +237,7 @@
       "size_bytes": 316245
     },
     {
-      "id": "eg_022",
+      "id": "eg_024",
       "title": "129EGageiro01.jpg",
       "description": "Dili-Timor, 2000",
       "url": "http://www.eduardogageiro.com/content/129egageiro01-1/",
@@ -227,7 +247,7 @@
       "size_bytes": 949471
     },
     {
-      "id": "eg_023",
+      "id": "eg_025",
       "title": "132EGageiro.jpg",
       "description": "Fátima-Portugal, 2000",
       "url": "http://www.eduardogageiro.com/content/132egageiro/",
@@ -237,7 +257,7 @@
       "size_bytes": 367036
     },
     {
-      "id": "eg_024",
+      "id": "eg_026",
       "title": "138EGageiro.jpg",
       "description": "Monjas de Belém-Calhariz-Portugal, 2006",
       "url": "http://www.eduardogageiro.com/content/138egageiro/",
@@ -247,7 +267,7 @@
       "size_bytes": 411275
     },
     {
-      "id": "eg_025",
+      "id": "eg_027",
       "title": "144EGageiro.jpg",
       "description": "Fátima-Portugal, 1999",
       "url": "http://www.eduardogageiro.com/content/144egageiro-1/",
@@ -257,7 +277,7 @@
       "size_bytes": 112990
     },
     {
-      "id": "eg_026",
+      "id": "eg_028",
       "title": "146EGageiro.jpg",
       "description": "Fátima, 1991",
       "url": "http://www.eduardogageiro.com/content/146egageiro-1/",
@@ -267,7 +287,7 @@
       "size_bytes": 172881
     },
     {
-      "id": "eg_027",
+      "id": "eg_029",
       "title": "154EGageiro.jpg",
       "description": "Igreja do S.tº Sepúlcro-Jerusalém, 2005",
       "url": "http://www.eduardogageiro.com/content/154egageiro/",
@@ -277,7 +297,7 @@
       "size_bytes": 119367
     },
     {
-      "id": "eg_028",
+      "id": "eg_030",
       "title": "172EGageiro20041701.jpg",
       "description": "Muro das Lamentações-Jerusalém, 2005",
       "url": "http://www.eduardogageiro.com/content/172egageiro20041701/",
@@ -287,7 +307,7 @@
       "size_bytes": 244715
     },
     {
-      "id": "eg_029",
+      "id": "eg_031",
       "title": "181EGageiro20041701.jpg",
       "description": "Fátima-Portugal, 1968",
       "url": "http://www.eduardogageiro.com/content/181egageiro20041701-1/",
@@ -297,7 +317,7 @@
       "size_bytes": 215003
     },
     {
-      "id": "eg_030",
+      "id": "eg_032",
       "title": "182EGageiro20041701.jpg",
       "description": "Babilónia-Iraque, 1996",
       "url": "http://www.eduardogageiro.com/content/182egageiro20041701/",
@@ -305,6 +325,2686 @@
       "height": 800,
       "format": "JPEG",
       "size_bytes": 207631
+    },
+    {
+      "id": "eg_033",
+      "title": "189EGageiro20041701.jpg",
+      "description": "Mosteiro Copta de S.tº Antão do Deserto-Egipto, 2003",
+      "url": "http://www.eduardogageiro.com/content/189egageiro20041701-1/",
+      "width": 639,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 170624
+    },
+    {
+      "id": "eg_034",
+      "title": "198EGageiro20041701.jpg",
+      "description": "Monsanto, 1981",
+      "url": "http://www.eduardogageiro.com/content/198egageiro20041701/",
+      "width": 633,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 259792
+    },
+    {
+      "id": "eg_035",
+      "title": "2.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/2-1/",
+      "width": 1223,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 350776
+    },
+    {
+      "id": "eg_036",
+      "title": "201EGageiro20041701.jpg",
+      "description": "Cabo Espichel-Portugal, 1996",
+      "url": "http://www.eduardogageiro.com/content/201egageiro20041701-1/",
+      "width": 994,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 193349
+    },
+    {
+      "id": "eg_037",
+      "title": "203EGageiro20041701.jpg",
+      "description": "Muro das Lamentações-Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/203egageiro20041701/",
+      "width": 989,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 296291
+    },
+    {
+      "id": "eg_038",
+      "title": "206EGageiro20041701.jpg",
+      "description": "Fátima-Portugal, 1967",
+      "url": "http://www.eduardogageiro.com/content/206egageiro20041701/",
+      "width": 801,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 129945
+    },
+    {
+      "id": "eg_039",
+      "title": "218EGageiro20041701.jpg",
+      "description": "Mosteiro da Cartuxa-Évora-Portugal, 1970",
+      "url": "http://www.eduardogageiro.com/content/218egageiro20041701-1/",
+      "width": 1000,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 356964
+    },
+    {
+      "id": "eg_040",
+      "title": "220EGageiro.jpg",
+      "description": "Amritsar-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/220egageiro-1/",
+      "width": 580,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 201661
+    },
+    {
+      "id": "eg_041",
+      "title": "230EGageiro.jpg",
+      "description": "Delhi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/230egageiro-1/",
+      "width": 1241,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 352086
+    },
+    {
+      "id": "eg_042",
+      "title": "242EGageiro.jpg",
+      "description": "Varanasi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/242egageiro/",
+      "width": 1147,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 295500
+    },
+    {
+      "id": "eg_043",
+      "title": "266EGageiro.jpg",
+      "description": "João Paulo II-Fátima-Portugal, 1982",
+      "url": "http://www.eduardogageiro.com/content/266egageiro-1/",
+      "width": 523,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 127287
+    },
+    {
+      "id": "eg_044",
+      "title": "268EGageiro.jpg",
+      "description": "Varanasi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/268egageiro/",
+      "width": 1143,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 375271
+    },
+    {
+      "id": "eg_045",
+      "title": "3.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/3-1/",
+      "width": 1198,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 235336
+    },
+    {
+      "id": "eg_046",
+      "title": "4.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/4-1/",
+      "width": 1189,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 267865
+    },
+    {
+      "id": "eg_047",
+      "title": "5.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/5-1/",
+      "width": 1191,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 221745
+    },
+    {
+      "id": "eg_048",
+      "title": "5X8Q9683.JPG",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/5x8q9683/",
+      "width": 3523,
+      "height": 3937,
+      "format": "JPEG",
+      "size_bytes": 707002
+    },
+    {
+      "id": "eg_049",
+      "title": "Amalia.jpg",
+      "description": "Amália Rodrigues - Alfama-Lisboa ,1971",
+      "url": "http://www.eduardogageiro.com/content/amalia-rodrigues/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 325661
+    },
+    {
+      "id": "eg_050",
+      "title": "Cardoso-Pires.jpg",
+      "description": "José Cardoso Pires-Costa da Caparica, 1984",
+      "url": "http://www.eduardogageiro.com/content/cardoso-pires/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 326724
+    },
+    {
+      "id": "eg_051",
+      "title": "Carlos-Paredes.jpg",
+      "description": "Carlos Paredes-Cais do Sodré-Lisboa, 1988",
+      "url": "http://www.eduardogageiro.com/content/carlos-paredes/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 401671
+    },
+    {
+      "id": "eg_052",
+      "title": "Cesariny.jpg",
+      "description": "Mário Cesariny-Lisboa, 1963",
+      "url": "http://www.eduardogageiro.com/content/cesariny/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 156775
+    },
+    {
+      "id": "eg_053",
+      "title": "Eunice-Munoz.jpg",
+      "description": "Eunice Muñoz-Lisboa, 1966",
+      "url": "http://www.eduardogageiro.com/content/eunice-munoz/",
+      "width": 800,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 189896
+    },
+    {
+      "id": "eg_054",
+      "title": "fe-019.jpg",
+      "description": "A caminho de Fátima-Portugal, 1970",
+      "url": "http://www.eduardogageiro.com/content/fe-019/",
+      "width": 1138,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 250535
+    },
+    {
+      "id": "eg_055",
+      "title": "fe-026.jpg",
+      "description": "Fátima-Portugal, 1999",
+      "url": "http://www.eduardogageiro.com/content/fe-026/",
+      "width": 620,
+      "height": 802,
+      "format": "JPEG",
+      "size_bytes": 116136
+    },
+    {
+      "id": "eg_056",
+      "title": "Fernando-Lopes-Gracoa.jpg",
+      "description": "Fernando Lopes Graça-Parede",
+      "url": "http://www.eduardogageiro.com/content/fernando-lopes-gracoa/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 271371
+    },
+    {
+      "id": "eg_057",
+      "title": "Ferreira-do-Castro.jpg",
+      "description": "Ferreira de Castro-Sintra, 1968",
+      "url": "http://www.eduardogageiro.com/content/ferreira-do-castro/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 291030
+    },
+    {
+      "id": "eg_058",
+      "title": "foto-01.jpg",
+      "description": "Cerco à Pide-R. António Maria Cardoso-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-01/",
+      "width": 1189,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 397208
+    },
+    {
+      "id": "eg_059",
+      "title": "foto-02.jpg",
+      "description": "Álvaro Cunhal e Mário Soares-1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-02/",
+      "width": 539,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 170891
+    },
+    {
+      "id": "eg_060",
+      "title": "foto-03-2.jpg",
+      "description": "Sede da Pide-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-4/",
+      "width": 540,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 255071
+    },
+    {
+      "id": "eg_061",
+      "title": "foto-04.jpg",
+      "description": "Prisão do Major Pato Anselmo-Av.Ribeira das Naus-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-5/",
+      "width": 2126,
+      "height": 1678,
+      "format": "JPEG",
+      "size_bytes": 873866
+    },
+    {
+      "id": "eg_062",
+      "title": "foto-05.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-6/",
+      "width": 540,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 119751
+    },
+    {
+      "id": "eg_063",
+      "title": "foto-07.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-07/",
+      "width": 1182,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 372727
+    },
+    {
+      "id": "eg_064",
+      "title": "foto-09.jpg",
+      "description": "Salgueiro Maia, Jaime Neves e Brito e Cunha -Terreiro do Paço-Lisboa-25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-10/",
+      "width": 1176,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 280453
+    },
+    {
+      "id": "eg_065",
+      "title": "foto-10.jpg",
+      "description": "Salgueiro Maia-Largo do Carmo-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-11/",
+      "width": 543,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 234698
+    },
+    {
+      "id": "eg_066",
+      "title": "foto-102.jpg",
+      "description": "Soldados com Cravos - Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/25abrilcravos/",
+      "width": 1200,
+      "height": 1779,
+      "format": "JPEG",
+      "size_bytes": 1268043
+    },
+    {
+      "id": "eg_067",
+      "title": "foto-14.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-14/",
+      "width": 1183,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 391587
+    },
+    {
+      "id": "eg_068",
+      "title": "foto-15.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-15/",
+      "width": 1188,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 483632
+    },
+    {
+      "id": "eg_069",
+      "title": "foto-17.jpg",
+      "description": "Manifestação-Lisboa, Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-17/",
+      "width": 543,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 143548
+    },
+    {
+      "id": "eg_070",
+      "title": "foto-19.jpg",
+      "description": "Salgueiro Maia e Maia Loureiro-Terreiro do Paço-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-21/",
+      "width": 1179,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 404705
+    },
+    {
+      "id": "eg_071",
+      "title": "foto-20-2.jpg",
+      "description": "Sede da Pide-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-22/",
+      "width": 1180,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 663550
+    },
+    {
+      "id": "eg_072",
+      "title": "foto-23.jpg",
+      "description": "Chaimite \"Bula\"-Largo do Carmo-25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-23/",
+      "width": 1186,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 538464
+    },
+    {
+      "id": "eg_073",
+      "title": "Gilbert-Becaud.jpg",
+      "description": "Gilbert Becaud-Lisboa, 1968",
+      "url": "http://www.eduardogageiro.com/content/gilbert-becaud/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 146760
+    },
+    {
+      "id": "eg_074",
+      "title": "Gina-Lollobrigida-e-Begun.jpg",
+      "description": "Gina Lolobrígida e Begun-Colares, 1968",
+      "url": "http://www.eduardogageiro.com/content/gina-lollobrigida-e-begun/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 213742
+    },
+    {
+      "id": "eg_075",
+      "title": "Grace-Kelly-Rainha-Vitoria-Eugenia.jpg",
+      "description": "Grace Kelly e Rainha Vitória, 1967",
+      "url": "http://www.eduardogageiro.com/content/grace-kelly-rainha-vitoria-eugenia/",
+      "width": 803,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 278462
+    },
+    {
+      "id": "eg_076",
+      "title": "I72Q1652.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1652/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 212363
+    },
+    {
+      "id": "eg_077",
+      "title": "I72Q1692.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1692/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 143435
+    },
+    {
+      "id": "eg_078",
+      "title": "I72Q1775.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1775/",
+      "width": 1187,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 225043
+    },
+    {
+      "id": "eg_079",
+      "title": "I72Q1829.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1829/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 222258
+    },
+    {
+      "id": "eg_080",
+      "title": "I72Q1834.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1834/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 254121
+    },
+    {
+      "id": "eg_081",
+      "title": "I72Q1838.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1838/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 229611
+    },
+    {
+      "id": "eg_082",
+      "title": "I72Q1839.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1839/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 144798
+    },
+    {
+      "id": "eg_083",
+      "title": "I72Q1861.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1861/",
+      "width": 1174,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 174460
+    },
+    {
+      "id": "eg_084",
+      "title": "I72Q1865.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1865/",
+      "width": 1177,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 199478
+    },
+    {
+      "id": "eg_085",
+      "title": "I72Q1868.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1868/",
+      "width": 1179,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 193582
+    },
+    {
+      "id": "eg_086",
+      "title": "I72Q1871.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1871/",
+      "width": 1142,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 165026
+    },
+    {
+      "id": "eg_087",
+      "title": "I72Q1939.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1939/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 137262
+    },
+    {
+      "id": "eg_088",
+      "title": "I72Q1941.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1941/",
+      "width": 1236,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 174806
+    },
+    {
+      "id": "eg_089",
+      "title": "I72Q1943.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1943/",
+      "width": 1238,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 181110
+    },
+    {
+      "id": "eg_090",
+      "title": "I72Q1946.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1946/",
+      "width": 1223,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 169885
+    },
+    {
+      "id": "eg_091",
+      "title": "I72Q1954.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1954/",
+      "width": 1152,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 179695
+    },
+    {
+      "id": "eg_092",
+      "title": "I72Q1955.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1955/",
+      "width": 1136,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 153951
+    },
+    {
+      "id": "eg_093",
+      "title": "I72Q1957.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1957/",
+      "width": 1163,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 141036
+    },
+    {
+      "id": "eg_094",
+      "title": "I72Q1961.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1961/",
+      "width": 1194,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 133124
+    },
+    {
+      "id": "eg_095",
+      "title": "I72Q3082.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3082/",
+      "width": 1362,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 267829
+    },
+    {
+      "id": "eg_096",
+      "title": "I72Q3086.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3086/",
+      "width": 1362,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 205542
+    },
+    {
+      "id": "eg_097",
+      "title": "I72Q3088.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3088/",
+      "width": 1377,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 264129
+    },
+    {
+      "id": "eg_098",
+      "title": "I72Q3089.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3089/",
+      "width": 1379,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 237575
+    },
+    {
+      "id": "eg_099",
+      "title": "IMG-0000.jpg",
+      "description": "Hospital em Bagdad-Iraque, 1996",
+      "url": "http://www.eduardogageiro.com/content/img-0000/",
+      "width": 561,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 106618
+    },
+    {
+      "id": "eg_100",
+      "title": "IMG-0000.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/img-1/",
+      "width": 1141,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 298134
+    },
+    {
+      "id": "eg_101",
+      "title": "0-livro-olhares-001.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/0-livro-olhares-001/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 103762
+    },
+    {
+      "id": "eg_102",
+      "title": "004EGageiro.jpg",
+      "description": "Monsanto-Portugal, 1982",
+      "url": "http://www.eduardogageiro.com/content/004egageiro-1/",
+      "width": 626,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 211721
+    },
+    {
+      "id": "eg_103",
+      "title": "005EGageiroN2.jpg",
+      "description": "Peniche-Portugal, 1984",
+      "url": "http://www.eduardogageiro.com/content/005egageiron2-1/",
+      "width": 809,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 155964
+    },
+    {
+      "id": "eg_104",
+      "title": "006EGageiro.jpg",
+      "description": "Ermera-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/006egageiro-1/",
+      "width": 1003,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 403717
+    },
+    {
+      "id": "eg_105",
+      "title": "008Nova-EGageiro.jpg",
+      "description": "Semana Santa-Ourém-Portugal, 2005",
+      "url": "http://www.eduardogageiro.com/content/008nova-egageiro/",
+      "width": 996,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 379236
+    },
+    {
+      "id": "eg_106",
+      "title": "021EGageiro.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/021egageiro-1/",
+      "width": 1144,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 408325
+    },
+    {
+      "id": "eg_107",
+      "title": "024EGageiro.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/024egageiro/",
+      "width": 1143,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 283066
+    },
+    {
+      "id": "eg_108",
+      "title": "025EGageiro.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/025egageiro-1/",
+      "width": 1138,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 520758
+    },
+    {
+      "id": "eg_109",
+      "title": "033EGageiro.jpg",
+      "description": "Mesquita-Lisboa-Portugal, 2005",
+      "url": "http://www.eduardogageiro.com/content/033egageiro/",
+      "width": 1155,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 381584
+    },
+    {
+      "id": "eg_110",
+      "title": "046EGageiro.jpg",
+      "description": "Karbala-Iraque, 1996",
+      "url": "http://www.eduardogageiro.com/content/046egageiro-1/",
+      "width": 1166,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 304787
+    },
+    {
+      "id": "eg_111",
+      "title": "056EGageiro.jpg",
+      "description": "Ladeira do Pinheiro-Portugal, 1968",
+      "url": "http://www.eduardogageiro.com/content/056egageiro/",
+      "width": 1147,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 205000
+    },
+    {
+      "id": "eg_112",
+      "title": "057EGageiro.jpg",
+      "description": "Sesimbra-Portugal, 1985",
+      "url": "http://www.eduardogageiro.com/content/057egageiro-1/",
+      "width": 1147,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 295950
+    },
+    {
+      "id": "eg_113",
+      "title": "061EGageiro.jpg",
+      "description": "Guiné Bissau, 1972",
+      "url": "http://www.eduardogageiro.com/content/061egageiro-1/",
+      "width": 1146,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 265831
+    },
+    {
+      "id": "eg_114",
+      "title": "062EGageiro.jpg",
+      "description": "Nazaré-Portugal, 1997",
+      "url": "http://www.eduardogageiro.com/content/062egageiro/",
+      "width": 1174,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 328906
+    },
+    {
+      "id": "eg_115",
+      "title": "065EGageiro.jpg",
+      "description": "Pequim-China, 2005",
+      "url": "http://www.eduardogageiro.com/content/065egageiro-1/",
+      "width": 1150,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 294957
+    },
+    {
+      "id": "eg_116",
+      "title": "075EGageiro.jpg",
+      "description": "Fátima-Portugal, 2005",
+      "url": "http://www.eduardogageiro.com/content/075egageiro/",
+      "width": 1124,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 271569
+    },
+    {
+      "id": "eg_117",
+      "title": "081EGageiro.jpg",
+      "description": "Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/081egageiro-1/",
+      "width": 1135,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 416195
+    },
+    {
+      "id": "eg_118",
+      "title": "086EGageiro.jpg",
+      "description": "Fátima-Portugal, 1968",
+      "url": "http://www.eduardogageiro.com/content/086egageiro/",
+      "width": 1163,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 301565
+    },
+    {
+      "id": "eg_119",
+      "title": "089EGageiro.jpg",
+      "description": "Pequim-China, 2005",
+      "url": "http://www.eduardogageiro.com/content/089egageiro/",
+      "width": 1170,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 298275
+    },
+    {
+      "id": "eg_120",
+      "title": "098EGageiro.jpg",
+      "description": "Paulo V-Fátima, 1967",
+      "url": "http://www.eduardogageiro.com/content/098egageiro-1/",
+      "width": 1148,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 464112
+    },
+    {
+      "id": "eg_121",
+      "title": "1.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/1-1/",
+      "width": 1149,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 362162
+    },
+    {
+      "id": "eg_122",
+      "title": "109EGageiroN2.jpg",
+      "description": "Ladeira do Pinheiro-Torres Novas, 1968",
+      "url": "http://www.eduardogageiro.com/content/109egageiron2/",
+      "width": 1138,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 365140
+    },
+    {
+      "id": "eg_123",
+      "title": "128EGageiro.jpg",
+      "description": "Mesquita-Lisboa-Portugal, 2004",
+      "url": "http://www.eduardogageiro.com/content/128egageiro/",
+      "width": 1163,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 316245
+    },
+    {
+      "id": "eg_124",
+      "title": "129EGageiro01.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/129egageiro01-1/",
+      "width": 2160,
+      "height": 1491,
+      "format": "JPEG",
+      "size_bytes": 949471
+    },
+    {
+      "id": "eg_125",
+      "title": "132EGageiro.jpg",
+      "description": "Fátima-Portugal, 2000",
+      "url": "http://www.eduardogageiro.com/content/132egageiro/",
+      "width": 1149,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 367036
+    },
+    {
+      "id": "eg_126",
+      "title": "138EGageiro.jpg",
+      "description": "Monjas de Belém-Calhariz-Portugal, 2006",
+      "url": "http://www.eduardogageiro.com/content/138egageiro/",
+      "width": 1152,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 411275
+    },
+    {
+      "id": "eg_127",
+      "title": "144EGageiro.jpg",
+      "description": "Fátima-Portugal, 1999",
+      "url": "http://www.eduardogageiro.com/content/144egageiro-1/",
+      "width": 630,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 112990
+    },
+    {
+      "id": "eg_128",
+      "title": "146EGageiro.jpg",
+      "description": "Fátima, 1991",
+      "url": "http://www.eduardogageiro.com/content/146egageiro-1/",
+      "width": 633,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 172881
+    },
+    {
+      "id": "eg_129",
+      "title": "154EGageiro.jpg",
+      "description": "Igreja do S.tº Sepúlcro-Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/154egageiro/",
+      "width": 636,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 119367
+    },
+    {
+      "id": "eg_130",
+      "title": "172EGageiro20041701.jpg",
+      "description": "Muro das Lamentações-Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/172egageiro20041701/",
+      "width": 631,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 244715
+    },
+    {
+      "id": "eg_131",
+      "title": "181EGageiro20041701.jpg",
+      "description": "Fátima-Portugal, 1968",
+      "url": "http://www.eduardogageiro.com/content/181egageiro20041701-1/",
+      "width": 799,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 215003
+    },
+    {
+      "id": "eg_132",
+      "title": "182EGageiro20041701.jpg",
+      "description": "Babilónia-Iraque, 1996",
+      "url": "http://www.eduardogageiro.com/content/182egageiro20041701/",
+      "width": 640,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 207631
+    },
+    {
+      "id": "eg_133",
+      "title": "189EGageiro20041701.jpg",
+      "description": "Mosteiro Copta de S.tº Antão do Deserto-Egipto, 2003",
+      "url": "http://www.eduardogageiro.com/content/189egageiro20041701-1/",
+      "width": 639,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 170624
+    },
+    {
+      "id": "eg_134",
+      "title": "198EGageiro20041701.jpg",
+      "description": "Monsanto, 1981",
+      "url": "http://www.eduardogageiro.com/content/198egageiro20041701/",
+      "width": 633,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 259792
+    },
+    {
+      "id": "eg_135",
+      "title": "2.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/2-1/",
+      "width": 1223,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 350776
+    },
+    {
+      "id": "eg_136",
+      "title": "201EGageiro20041701.jpg",
+      "description": "Cabo Espichel-Portugal, 1996",
+      "url": "http://www.eduardogageiro.com/content/201egageiro20041701-1/",
+      "width": 994,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 193349
+    },
+    {
+      "id": "eg_137",
+      "title": "203EGageiro20041701.jpg",
+      "description": "Muro das Lamentações-Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/203egageiro20041701/",
+      "width": 989,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 296291
+    },
+    {
+      "id": "eg_138",
+      "title": "206EGageiro20041701.jpg",
+      "description": "Fátima-Portugal, 1967",
+      "url": "http://www.eduardogageiro.com/content/206egageiro20041701/",
+      "width": 801,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 129945
+    },
+    {
+      "id": "eg_139",
+      "title": "218EGageiro20041701.jpg",
+      "description": "Mosteiro da Cartuxa-Évora-Portugal, 1970",
+      "url": "http://www.eduardogageiro.com/content/218egageiro20041701-1/",
+      "width": 1000,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 356964
+    },
+    {
+      "id": "eg_140",
+      "title": "220EGageiro.jpg",
+      "description": "Amritsar-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/220egageiro-1/",
+      "width": 580,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 201661
+    },
+    {
+      "id": "eg_141",
+      "title": "230EGageiro.jpg",
+      "description": "Delhi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/230egageiro-1/",
+      "width": 1241,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 352086
+    },
+    {
+      "id": "eg_142",
+      "title": "242EGageiro.jpg",
+      "description": "Varanasi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/242egageiro/",
+      "width": 1147,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 295500
+    },
+    {
+      "id": "eg_143",
+      "title": "266EGageiro.jpg",
+      "description": "João Paulo II-Fátima-Portugal, 1982",
+      "url": "http://www.eduardogageiro.com/content/266egageiro-1/",
+      "width": 523,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 127287
+    },
+    {
+      "id": "eg_144",
+      "title": "268EGageiro.jpg",
+      "description": "Varanasi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/268egageiro/",
+      "width": 1143,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 375271
+    },
+    {
+      "id": "eg_145",
+      "title": "3.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/3-1/",
+      "width": 1198,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 235336
+    },
+    {
+      "id": "eg_146",
+      "title": "4.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/4-1/",
+      "width": 1189,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 267865
+    },
+    {
+      "id": "eg_147",
+      "title": "5.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/5-1/",
+      "width": 1191,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 221745
+    },
+    {
+      "id": "eg_148",
+      "title": "5X8Q9683.JPG",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/5x8q9683/",
+      "width": 3523,
+      "height": 3937,
+      "format": "JPEG",
+      "size_bytes": 707002
+    },
+    {
+      "id": "eg_149",
+      "title": "Amalia.jpg",
+      "description": "Amália Rodrigues - Alfama-Lisboa ,1971",
+      "url": "http://www.eduardogageiro.com/content/amalia-rodrigues/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 325661
+    },
+    {
+      "id": "eg_150",
+      "title": "Cardoso-Pires.jpg",
+      "description": "José Cardoso Pires-Costa da Caparica, 1984",
+      "url": "http://www.eduardogageiro.com/content/cardoso-pires/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 326724
+    },
+    {
+      "id": "eg_151",
+      "title": "Carlos-Paredes.jpg",
+      "description": "Carlos Paredes-Cais do Sodré-Lisboa, 1988",
+      "url": "http://www.eduardogageiro.com/content/carlos-paredes/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 401671
+    },
+    {
+      "id": "eg_152",
+      "title": "Cesariny.jpg",
+      "description": "Mário Cesariny-Lisboa, 1963",
+      "url": "http://www.eduardogageiro.com/content/cesariny/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 156775
+    },
+    {
+      "id": "eg_153",
+      "title": "Eunice-Munoz.jpg",
+      "description": "Eunice Muñoz-Lisboa, 1966",
+      "url": "http://www.eduardogageiro.com/content/eunice-munoz/",
+      "width": 800,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 189896
+    },
+    {
+      "id": "eg_154",
+      "title": "fe-019.jpg",
+      "description": "A caminho de Fátima-Portugal, 1970",
+      "url": "http://www.eduardogageiro.com/content/fe-019/",
+      "width": 1138,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 250535
+    },
+    {
+      "id": "eg_155",
+      "title": "fe-026.jpg",
+      "description": "Fátima-Portugal, 1999",
+      "url": "http://www.eduardogageiro.com/content/fe-026/",
+      "width": 620,
+      "height": 802,
+      "format": "JPEG",
+      "size_bytes": 116136
+    },
+    {
+      "id": "eg_156",
+      "title": "Fernando-Lopes-Gracoa.jpg",
+      "description": "Fernando Lopes Graça-Parede",
+      "url": "http://www.eduardogageiro.com/content/fernando-lopes-gracoa/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 271371
+    },
+    {
+      "id": "eg_157",
+      "title": "Ferreira-do-Castro.jpg",
+      "description": "Ferreira de Castro-Sintra, 1968",
+      "url": "http://www.eduardogageiro.com/content/ferreira-do-castro/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 291030
+    },
+    {
+      "id": "eg_158",
+      "title": "foto-01.jpg",
+      "description": "Cerco à Pide-R. António Maria Cardoso-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-01/",
+      "width": 1189,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 397208
+    },
+    {
+      "id": "eg_159",
+      "title": "foto-02.jpg",
+      "description": "Álvaro Cunhal e Mário Soares-1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-02/",
+      "width": 539,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 170891
+    },
+    {
+      "id": "eg_160",
+      "title": "foto-03-2.jpg",
+      "description": "Sede da Pide-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-4/",
+      "width": 540,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 255071
+    },
+    {
+      "id": "eg_161",
+      "title": "foto-04.jpg",
+      "description": "Prisão do Major Pato Anselmo-Av.Ribeira das Naus-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-5/",
+      "width": 2126,
+      "height": 1678,
+      "format": "JPEG",
+      "size_bytes": 873866
+    },
+    {
+      "id": "eg_162",
+      "title": "foto-05.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-6/",
+      "width": 540,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 119751
+    },
+    {
+      "id": "eg_163",
+      "title": "foto-07.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-07/",
+      "width": 1182,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 372727
+    },
+    {
+      "id": "eg_164",
+      "title": "foto-09.jpg",
+      "description": "Salgueiro Maia, Jaime Neves e Brito e Cunha -Terreiro do Paço-Lisboa-25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-10/",
+      "width": 1176,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 280453
+    },
+    {
+      "id": "eg_165",
+      "title": "foto-10.jpg",
+      "description": "Salgueiro Maia-Largo do Carmo-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-11/",
+      "width": 543,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 234698
+    },
+    {
+      "id": "eg_166",
+      "title": "foto-102.jpg",
+      "description": "Soldados com Cravos - Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/25abrilcravos/",
+      "width": 1200,
+      "height": 1779,
+      "format": "JPEG",
+      "size_bytes": 1268043
+    },
+    {
+      "id": "eg_167",
+      "title": "foto-14.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-14/",
+      "width": 1183,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 391587
+    },
+    {
+      "id": "eg_168",
+      "title": "foto-15.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-15/",
+      "width": 1188,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 483632
+    },
+    {
+      "id": "eg_169",
+      "title": "foto-17.jpg",
+      "description": "Manifestação-Lisboa, Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-17/",
+      "width": 543,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 143548
+    },
+    {
+      "id": "eg_170",
+      "title": "foto-19.jpg",
+      "description": "Salgueiro Maia e Maia Loureiro-Terreiro do Paço-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-21/",
+      "width": 1179,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 404705
+    },
+    {
+      "id": "eg_171",
+      "title": "foto-20-2.jpg",
+      "description": "Sede da Pide-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-22/",
+      "width": 1180,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 663550
+    },
+    {
+      "id": "eg_172",
+      "title": "foto-23.jpg",
+      "description": "Chaimite \"Bula\"-Largo do Carmo-25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-23/",
+      "width": 1186,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 538464
+    },
+    {
+      "id": "eg_173",
+      "title": "Gilbert-Becaud.jpg",
+      "description": "Gilbert Becaud-Lisboa, 1968",
+      "url": "http://www.eduardogageiro.com/content/gilbert-becaud/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 146760
+    },
+    {
+      "id": "eg_174",
+      "title": "Gina-Lollobrigida-e-Begun.jpg",
+      "description": "Gina Lolobrígida e Begun-Colares, 1968",
+      "url": "http://www.eduardogageiro.com/content/gina-lollobrigida-e-begun/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 213742
+    },
+    {
+      "id": "eg_175",
+      "title": "Grace-Kelly-Rainha-Vitoria-Eugenia.jpg",
+      "description": "Grace Kelly e Rainha Vitória, 1967",
+      "url": "http://www.eduardogageiro.com/content/grace-kelly-rainha-vitoria-eugenia/",
+      "width": 803,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 278462
+    },
+    {
+      "id": "eg_176",
+      "title": "I72Q1652.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1652/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 212363
+    },
+    {
+      "id": "eg_177",
+      "title": "I72Q1692.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1692/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 143435
+    },
+    {
+      "id": "eg_178",
+      "title": "I72Q1775.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1775/",
+      "width": 1187,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 225043
+    },
+    {
+      "id": "eg_179",
+      "title": "I72Q1829.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1829/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 222258
+    },
+    {
+      "id": "eg_180",
+      "title": "I72Q1834.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1834/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 254121
+    },
+    {
+      "id": "eg_181",
+      "title": "I72Q1838.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1838/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 229611
+    },
+    {
+      "id": "eg_182",
+      "title": "I72Q1839.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1839/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 144798
+    },
+    {
+      "id": "eg_183",
+      "title": "I72Q1861.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1861/",
+      "width": 1174,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 174460
+    },
+    {
+      "id": "eg_184",
+      "title": "I72Q1865.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1865/",
+      "width": 1177,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 199478
+    },
+    {
+      "id": "eg_185",
+      "title": "I72Q1868.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1868/",
+      "width": 1179,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 193582
+    },
+    {
+      "id": "eg_186",
+      "title": "I72Q1871.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1871/",
+      "width": 1142,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 165026
+    },
+    {
+      "id": "eg_187",
+      "title": "I72Q1939.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1939/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 137262
+    },
+    {
+      "id": "eg_188",
+      "title": "I72Q1941.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1941/",
+      "width": 1236,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 174806
+    },
+    {
+      "id": "eg_189",
+      "title": "I72Q1943.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1943/",
+      "width": 1238,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 181110
+    },
+    {
+      "id": "eg_190",
+      "title": "I72Q1946.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1946/",
+      "width": 1223,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 169885
+    },
+    {
+      "id": "eg_191",
+      "title": "I72Q1954.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1954/",
+      "width": 1152,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 179695
+    },
+    {
+      "id": "eg_192",
+      "title": "I72Q1955.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1955/",
+      "width": 1136,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 153951
+    },
+    {
+      "id": "eg_193",
+      "title": "I72Q1957.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1957/",
+      "width": 1163,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 141036
+    },
+    {
+      "id": "eg_194",
+      "title": "I72Q1961.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1961/",
+      "width": 1194,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 133124
+    },
+    {
+      "id": "eg_195",
+      "title": "I72Q3082.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3082/",
+      "width": 1362,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 267829
+    },
+    {
+      "id": "eg_196",
+      "title": "I72Q3086.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3086/",
+      "width": 1362,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 205542
+    },
+    {
+      "id": "eg_197",
+      "title": "I72Q3088.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3088/",
+      "width": 1377,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 264129
+    },
+    {
+      "id": "eg_198",
+      "title": "I72Q3089.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3089/",
+      "width": 1379,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 237575
+    },
+    {
+      "id": "eg_199",
+      "title": "IMG-0000.jpg",
+      "description": "Hospital em Bagdad-Iraque, 1996",
+      "url": "http://www.eduardogageiro.com/content/img-0000/",
+      "width": 561,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 106618
+    },
+    {
+      "id": "eg_200",
+      "title": "IMG-0000.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/img-1/",
+      "width": 1141,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 298134
+    },
+    {
+      "id": "eg_201",
+      "title": "0-livro-olhares-001.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/0-livro-olhares-001/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 103762
+    },
+    {
+      "id": "eg_202",
+      "title": "004EGageiro.jpg",
+      "description": "Monsanto-Portugal, 1982",
+      "url": "http://www.eduardogageiro.com/content/004egageiro-1/",
+      "width": 626,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 211721
+    },
+    {
+      "id": "eg_203",
+      "title": "005EGageiroN2.jpg",
+      "description": "Peniche-Portugal, 1984",
+      "url": "http://www.eduardogageiro.com/content/005egageiron2-1/",
+      "width": 809,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 155964
+    },
+    {
+      "id": "eg_204",
+      "title": "006EGageiro.jpg",
+      "description": "Ermera-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/006egageiro-1/",
+      "width": 1003,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 403717
+    },
+    {
+      "id": "eg_205",
+      "title": "008Nova-EGageiro.jpg",
+      "description": "Semana Santa-Ourém-Portugal, 2005",
+      "url": "http://www.eduardogageiro.com/content/008nova-egageiro/",
+      "width": 996,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 379236
+    },
+    {
+      "id": "eg_206",
+      "title": "021EGageiro.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/021egageiro-1/",
+      "width": 1144,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 408325
+    },
+    {
+      "id": "eg_207",
+      "title": "024EGageiro.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/024egageiro/",
+      "width": 1143,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 283066
+    },
+    {
+      "id": "eg_208",
+      "title": "025EGageiro.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/025egageiro-1/",
+      "width": 1138,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 520758
+    },
+    {
+      "id": "eg_209",
+      "title": "033EGageiro.jpg",
+      "description": "Mesquita-Lisboa-Portugal, 2005",
+      "url": "http://www.eduardogageiro.com/content/033egageiro/",
+      "width": 1155,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 381584
+    },
+    {
+      "id": "eg_210",
+      "title": "046EGageiro.jpg",
+      "description": "Karbala-Iraque, 1996",
+      "url": "http://www.eduardogageiro.com/content/046egageiro-1/",
+      "width": 1166,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 304787
+    },
+    {
+      "id": "eg_211",
+      "title": "056EGageiro.jpg",
+      "description": "Ladeira do Pinheiro-Portugal, 1968",
+      "url": "http://www.eduardogageiro.com/content/056egageiro/",
+      "width": 1147,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 205000
+    },
+    {
+      "id": "eg_212",
+      "title": "057EGageiro.jpg",
+      "description": "Sesimbra-Portugal, 1985",
+      "url": "http://www.eduardogageiro.com/content/057egageiro-1/",
+      "width": 1147,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 295950
+    },
+    {
+      "id": "eg_213",
+      "title": "061EGageiro.jpg",
+      "description": "Guiné Bissau, 1972",
+      "url": "http://www.eduardogageiro.com/content/061egageiro-1/",
+      "width": 1146,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 265831
+    },
+    {
+      "id": "eg_214",
+      "title": "062EGageiro.jpg",
+      "description": "Nazaré-Portugal, 1997",
+      "url": "http://www.eduardogageiro.com/content/062egageiro/",
+      "width": 1174,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 328906
+    },
+    {
+      "id": "eg_215",
+      "title": "065EGageiro.jpg",
+      "description": "Pequim-China, 2005",
+      "url": "http://www.eduardogageiro.com/content/065egageiro-1/",
+      "width": 1150,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 294957
+    },
+    {
+      "id": "eg_216",
+      "title": "075EGageiro.jpg",
+      "description": "Fátima-Portugal, 2005",
+      "url": "http://www.eduardogageiro.com/content/075egageiro/",
+      "width": 1124,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 271569
+    },
+    {
+      "id": "eg_217",
+      "title": "081EGageiro.jpg",
+      "description": "Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/081egageiro-1/",
+      "width": 1135,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 416195
+    },
+    {
+      "id": "eg_218",
+      "title": "086EGageiro.jpg",
+      "description": "Fátima-Portugal, 1968",
+      "url": "http://www.eduardogageiro.com/content/086egageiro/",
+      "width": 1163,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 301565
+    },
+    {
+      "id": "eg_219",
+      "title": "089EGageiro.jpg",
+      "description": "Pequim-China, 2005",
+      "url": "http://www.eduardogageiro.com/content/089egageiro/",
+      "width": 1170,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 298275
+    },
+    {
+      "id": "eg_220",
+      "title": "098EGageiro.jpg",
+      "description": "Paulo V-Fátima, 1967",
+      "url": "http://www.eduardogageiro.com/content/098egageiro-1/",
+      "width": 1148,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 464112
+    },
+    {
+      "id": "eg_221",
+      "title": "1.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/1-1/",
+      "width": 1149,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 362162
+    },
+    {
+      "id": "eg_222",
+      "title": "109EGageiroN2.jpg",
+      "description": "Ladeira do Pinheiro-Torres Novas, 1968",
+      "url": "http://www.eduardogageiro.com/content/109egageiron2/",
+      "width": 1138,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 365140
+    },
+    {
+      "id": "eg_223",
+      "title": "128EGageiro.jpg",
+      "description": "Mesquita-Lisboa-Portugal, 2004",
+      "url": "http://www.eduardogageiro.com/content/128egageiro/",
+      "width": 1163,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 316245
+    },
+    {
+      "id": "eg_224",
+      "title": "129EGageiro01.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/129egageiro01-1/",
+      "width": 2160,
+      "height": 1491,
+      "format": "JPEG",
+      "size_bytes": 949471
+    },
+    {
+      "id": "eg_225",
+      "title": "132EGageiro.jpg",
+      "description": "Fátima-Portugal, 2000",
+      "url": "http://www.eduardogageiro.com/content/132egageiro/",
+      "width": 1149,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 367036
+    },
+    {
+      "id": "eg_226",
+      "title": "138EGageiro.jpg",
+      "description": "Monjas de Belém-Calhariz-Portugal, 2006",
+      "url": "http://www.eduardogageiro.com/content/138egageiro/",
+      "width": 1152,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 411275
+    },
+    {
+      "id": "eg_227",
+      "title": "144EGageiro.jpg",
+      "description": "Fátima-Portugal, 1999",
+      "url": "http://www.eduardogageiro.com/content/144egageiro-1/",
+      "width": 630,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 112990
+    },
+    {
+      "id": "eg_228",
+      "title": "146EGageiro.jpg",
+      "description": "Fátima, 1991",
+      "url": "http://www.eduardogageiro.com/content/146egageiro-1/",
+      "width": 633,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 172881
+    },
+    {
+      "id": "eg_229",
+      "title": "154EGageiro.jpg",
+      "description": "Igreja do S.tº Sepúlcro-Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/154egageiro/",
+      "width": 636,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 119367
+    },
+    {
+      "id": "eg_230",
+      "title": "172EGageiro20041701.jpg",
+      "description": "Muro das Lamentações-Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/172egageiro20041701/",
+      "width": 631,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 244715
+    },
+    {
+      "id": "eg_231",
+      "title": "181EGageiro20041701.jpg",
+      "description": "Fátima-Portugal, 1968",
+      "url": "http://www.eduardogageiro.com/content/181egageiro20041701-1/",
+      "width": 799,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 215003
+    },
+    {
+      "id": "eg_232",
+      "title": "182EGageiro20041701.jpg",
+      "description": "Babilónia-Iraque, 1996",
+      "url": "http://www.eduardogageiro.com/content/182egageiro20041701/",
+      "width": 640,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 207631
+    },
+    {
+      "id": "eg_233",
+      "title": "189EGageiro20041701.jpg",
+      "description": "Mosteiro Copta de S.tº Antão do Deserto-Egipto, 2003",
+      "url": "http://www.eduardogageiro.com/content/189egageiro20041701-1/",
+      "width": 639,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 170624
+    },
+    {
+      "id": "eg_234",
+      "title": "198EGageiro20041701.jpg",
+      "description": "Monsanto, 1981",
+      "url": "http://www.eduardogageiro.com/content/198egageiro20041701/",
+      "width": 633,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 259792
+    },
+    {
+      "id": "eg_235",
+      "title": "2.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/2-1/",
+      "width": 1223,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 350776
+    },
+    {
+      "id": "eg_236",
+      "title": "201EGageiro20041701.jpg",
+      "description": "Cabo Espichel-Portugal, 1996",
+      "url": "http://www.eduardogageiro.com/content/201egageiro20041701-1/",
+      "width": 994,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 193349
+    },
+    {
+      "id": "eg_237",
+      "title": "203EGageiro20041701.jpg",
+      "description": "Muro das Lamentações-Jerusalém, 2005",
+      "url": "http://www.eduardogageiro.com/content/203egageiro20041701/",
+      "width": 989,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 296291
+    },
+    {
+      "id": "eg_238",
+      "title": "206EGageiro20041701.jpg",
+      "description": "Fátima-Portugal, 1967",
+      "url": "http://www.eduardogageiro.com/content/206egageiro20041701/",
+      "width": 801,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 129945
+    },
+    {
+      "id": "eg_239",
+      "title": "218EGageiro20041701.jpg",
+      "description": "Mosteiro da Cartuxa-Évora-Portugal, 1970",
+      "url": "http://www.eduardogageiro.com/content/218egageiro20041701-1/",
+      "width": 1000,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 356964
+    },
+    {
+      "id": "eg_240",
+      "title": "220EGageiro.jpg",
+      "description": "Amritsar-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/220egageiro-1/",
+      "width": 580,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 201661
+    },
+    {
+      "id": "eg_241",
+      "title": "230EGageiro.jpg",
+      "description": "Delhi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/230egageiro-1/",
+      "width": 1241,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 352086
+    },
+    {
+      "id": "eg_242",
+      "title": "242EGageiro.jpg",
+      "description": "Varanasi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/242egageiro/",
+      "width": 1147,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 295500
+    },
+    {
+      "id": "eg_243",
+      "title": "266EGageiro.jpg",
+      "description": "João Paulo II-Fátima-Portugal, 1982",
+      "url": "http://www.eduardogageiro.com/content/266egageiro-1/",
+      "width": 523,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 127287
+    },
+    {
+      "id": "eg_244",
+      "title": "268EGageiro.jpg",
+      "description": "Varanasi-Índia, 2006",
+      "url": "http://www.eduardogageiro.com/content/268egageiro/",
+      "width": 1143,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 375271
+    },
+    {
+      "id": "eg_245",
+      "title": "3.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/3-1/",
+      "width": 1198,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 235336
+    },
+    {
+      "id": "eg_246",
+      "title": "4.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/4-1/",
+      "width": 1189,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 267865
+    },
+    {
+      "id": "eg_247",
+      "title": "5.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/5-1/",
+      "width": 1191,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 221745
+    },
+    {
+      "id": "eg_248",
+      "title": "5X8Q9683.JPG",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/5x8q9683/",
+      "width": 3523,
+      "height": 3937,
+      "format": "JPEG",
+      "size_bytes": 707002
+    },
+    {
+      "id": "eg_249",
+      "title": "Amalia.jpg",
+      "description": "Amália Rodrigues - Alfama-Lisboa ,1971",
+      "url": "http://www.eduardogageiro.com/content/amalia-rodrigues/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 325661
+    },
+    {
+      "id": "eg_250",
+      "title": "Cardoso-Pires.jpg",
+      "description": "José Cardoso Pires-Costa da Caparica, 1984",
+      "url": "http://www.eduardogageiro.com/content/cardoso-pires/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 326724
+    },
+    {
+      "id": "eg_251",
+      "title": "Carlos-Paredes.jpg",
+      "description": "Carlos Paredes-Cais do Sodré-Lisboa, 1988",
+      "url": "http://www.eduardogageiro.com/content/carlos-paredes/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 401671
+    },
+    {
+      "id": "eg_252",
+      "title": "Cesariny.jpg",
+      "description": "Mário Cesariny-Lisboa, 1963",
+      "url": "http://www.eduardogageiro.com/content/cesariny/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 156775
+    },
+    {
+      "id": "eg_253",
+      "title": "Eunice-Munoz.jpg",
+      "description": "Eunice Muñoz-Lisboa, 1966",
+      "url": "http://www.eduardogageiro.com/content/eunice-munoz/",
+      "width": 800,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 189896
+    },
+    {
+      "id": "eg_254",
+      "title": "fe-019.jpg",
+      "description": "A caminho de Fátima-Portugal, 1970",
+      "url": "http://www.eduardogageiro.com/content/fe-019/",
+      "width": 1138,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 250535
+    },
+    {
+      "id": "eg_255",
+      "title": "fe-026.jpg",
+      "description": "Fátima-Portugal, 1999",
+      "url": "http://www.eduardogageiro.com/content/fe-026/",
+      "width": 620,
+      "height": 802,
+      "format": "JPEG",
+      "size_bytes": 116136
+    },
+    {
+      "id": "eg_256",
+      "title": "Fernando-Lopes-Gracoa.jpg",
+      "description": "Fernando Lopes Graça-Parede",
+      "url": "http://www.eduardogageiro.com/content/fernando-lopes-gracoa/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 271371
+    },
+    {
+      "id": "eg_257",
+      "title": "Ferreira-do-Castro.jpg",
+      "description": "Ferreira de Castro-Sintra, 1968",
+      "url": "http://www.eduardogageiro.com/content/ferreira-do-castro/",
+      "width": 1067,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 291030
+    },
+    {
+      "id": "eg_258",
+      "title": "foto-01.jpg",
+      "description": "Cerco à Pide-R. António Maria Cardoso-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-01/",
+      "width": 1189,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 397208
+    },
+    {
+      "id": "eg_259",
+      "title": "foto-02.jpg",
+      "description": "Álvaro Cunhal e Mário Soares-1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-02/",
+      "width": 539,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 170891
+    },
+    {
+      "id": "eg_260",
+      "title": "foto-03-2.jpg",
+      "description": "Sede da Pide-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-4/",
+      "width": 540,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 255071
+    },
+    {
+      "id": "eg_261",
+      "title": "foto-04.jpg",
+      "description": "Prisão do Major Pato Anselmo-Av.Ribeira das Naus-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-5/",
+      "width": 2126,
+      "height": 1678,
+      "format": "JPEG",
+      "size_bytes": 873866
+    },
+    {
+      "id": "eg_262",
+      "title": "foto-05.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-6/",
+      "width": 540,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 119751
+    },
+    {
+      "id": "eg_263",
+      "title": "foto-07.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-07/",
+      "width": 1182,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 372727
+    },
+    {
+      "id": "eg_264",
+      "title": "foto-09.jpg",
+      "description": "Salgueiro Maia, Jaime Neves e Brito e Cunha -Terreiro do Paço-Lisboa-25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-10/",
+      "width": 1176,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 280453
+    },
+    {
+      "id": "eg_265",
+      "title": "foto-10.jpg",
+      "description": "Salgueiro Maia-Largo do Carmo-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-11/",
+      "width": 543,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 234698
+    },
+    {
+      "id": "eg_266",
+      "title": "foto-102.jpg",
+      "description": "Soldados com Cravos - Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/25abrilcravos/",
+      "width": 1200,
+      "height": 1779,
+      "format": "JPEG",
+      "size_bytes": 1268043
+    },
+    {
+      "id": "eg_267",
+      "title": "foto-14.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-14/",
+      "width": 1183,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 391587
+    },
+    {
+      "id": "eg_268",
+      "title": "foto-15.jpg",
+      "description": "1º de Maio-Lisboa, 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-15/",
+      "width": 1188,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 483632
+    },
+    {
+      "id": "eg_269",
+      "title": "foto-17.jpg",
+      "description": "Manifestação-Lisboa, Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-17/",
+      "width": 543,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 143548
+    },
+    {
+      "id": "eg_270",
+      "title": "foto-19.jpg",
+      "description": "Salgueiro Maia e Maia Loureiro-Terreiro do Paço-Lisboa, 25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-21/",
+      "width": 1179,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 404705
+    },
+    {
+      "id": "eg_271",
+      "title": "foto-20-2.jpg",
+      "description": "Sede da Pide-Lisboa, 26 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-22/",
+      "width": 1180,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 663550
+    },
+    {
+      "id": "eg_272",
+      "title": "foto-23.jpg",
+      "description": "Chaimite \"Bula\"-Largo do Carmo-25 de Abril de 1974",
+      "url": "http://www.eduardogageiro.com/content/foto-23/",
+      "width": 1186,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 538464
+    },
+    {
+      "id": "eg_273",
+      "title": "Gilbert-Becaud.jpg",
+      "description": "Gilbert Becaud-Lisboa, 1968",
+      "url": "http://www.eduardogageiro.com/content/gilbert-becaud/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 146760
+    },
+    {
+      "id": "eg_274",
+      "title": "Gina-Lollobrigida-e-Begun.jpg",
+      "description": "Gina Lolobrígida e Begun-Colares, 1968",
+      "url": "http://www.eduardogageiro.com/content/gina-lollobrigida-e-begun/",
+      "width": 600,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 213742
+    },
+    {
+      "id": "eg_275",
+      "title": "Grace-Kelly-Rainha-Vitoria-Eugenia.jpg",
+      "description": "Grace Kelly e Rainha Vitória, 1967",
+      "url": "http://www.eduardogageiro.com/content/grace-kelly-rainha-vitoria-eugenia/",
+      "width": 803,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 278462
+    },
+    {
+      "id": "eg_276",
+      "title": "I72Q1652.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1652/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 212363
+    },
+    {
+      "id": "eg_277",
+      "title": "I72Q1692.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1692/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 143435
+    },
+    {
+      "id": "eg_278",
+      "title": "I72Q1775.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1775/",
+      "width": 1187,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 225043
+    },
+    {
+      "id": "eg_279",
+      "title": "I72Q1829.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1829/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 222258
+    },
+    {
+      "id": "eg_280",
+      "title": "I72Q1834.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1834/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 254121
+    },
+    {
+      "id": "eg_281",
+      "title": "I72Q1838.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1838/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 229611
+    },
+    {
+      "id": "eg_282",
+      "title": "I72Q1839.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1839/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 144798
+    },
+    {
+      "id": "eg_283",
+      "title": "I72Q1861.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1861/",
+      "width": 1174,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 174460
+    },
+    {
+      "id": "eg_284",
+      "title": "I72Q1865.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1865/",
+      "width": 1177,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 199478
+    },
+    {
+      "id": "eg_285",
+      "title": "I72Q1868.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1868/",
+      "width": 1179,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 193582
+    },
+    {
+      "id": "eg_286",
+      "title": "I72Q1871.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1871/",
+      "width": 1142,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 165026
+    },
+    {
+      "id": "eg_287",
+      "title": "I72Q1939.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1939/",
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 137262
+    },
+    {
+      "id": "eg_288",
+      "title": "I72Q1941.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1941/",
+      "width": 1236,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 174806
+    },
+    {
+      "id": "eg_289",
+      "title": "I72Q1943.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1943/",
+      "width": 1238,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 181110
+    },
+    {
+      "id": "eg_290",
+      "title": "I72Q1946.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1946/",
+      "width": 1223,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 169885
+    },
+    {
+      "id": "eg_291",
+      "title": "I72Q1954.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1954/",
+      "width": 1152,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 179695
+    },
+    {
+      "id": "eg_292",
+      "title": "I72Q1955.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1955/",
+      "width": 1136,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 153951
+    },
+    {
+      "id": "eg_293",
+      "title": "I72Q1957.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1957/",
+      "width": 1163,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 141036
+    },
+    {
+      "id": "eg_294",
+      "title": "I72Q1961.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q1961/",
+      "width": 1194,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 133124
+    },
+    {
+      "id": "eg_295",
+      "title": "I72Q3082.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3082/",
+      "width": 1362,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 267829
+    },
+    {
+      "id": "eg_296",
+      "title": "I72Q3086.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3086/",
+      "width": 1362,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 205542
+    },
+    {
+      "id": "eg_297",
+      "title": "I72Q3088.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3088/",
+      "width": 1377,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 264129
+    },
+    {
+      "id": "eg_298",
+      "title": "I72Q3089.jpg",
+      "description": "Eduardo Gageiro Collection",
+      "url": "http://www.eduardogageiro.com/content/i72q3089/",
+      "width": 1379,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 237575
+    },
+    {
+      "id": "eg_299",
+      "title": "IMG-0000.jpg",
+      "description": "Hospital em Bagdad-Iraque, 1996",
+      "url": "http://www.eduardogageiro.com/content/img-0000/",
+      "width": 561,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 106618
+    },
+    {
+      "id": "eg_300",
+      "title": "IMG-0000.jpg",
+      "description": "Dili-Timor, 2000",
+      "url": "http://www.eduardogageiro.com/content/img-1/",
+      "width": 1141,
+      "height": 800,
+      "format": "JPEG",
+      "size_bytes": 298134
     }
   ]
 }
